@@ -65,6 +65,7 @@ const BlogCard = ({ image, CardTitle, CardDescription, link }) => {
                         </h3>
                         <p className="text-sm text-body-color dark:text-dark-6">
                             {CardDescription}
+                            <br /> <span className="font-bold"><br /> Click to know more </span>
                         </p>
                     </div>
                 </a>
