@@ -39,3 +39,7 @@ This website serves as the Char Dham Yatra, a sacred Hindu pilgrimage tour in In
 
 - Special thanks to the React and Tailwind CSS communities for their support and resources.
 - Thanks to Email.js for their email sending library.
+
+## Badges
+- This is just an edit for github badges
+- Console.log("Hello World")
